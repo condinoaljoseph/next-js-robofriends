@@ -1,0 +1,19 @@
+{
+  "name": "next-chuck-norris-generator",
+  "version": "1.0.0",
+  "description": "Chuck Norris Joke Generator with Nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Al Joseph Condino",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.2.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
